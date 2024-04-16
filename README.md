@@ -15,14 +15,17 @@ Any protoboard/strip board you would like
 
 # Physical build
 
-*talk about CAD of box here*
+I'm back to finally finish this up! Honestly I had just been procrastinating the case design for a long time. Found a cool resource that talks about button layout thats been helping: https://www.slagcoin.com/joystick/layout.html
 
 # Electronics
 
-The electronics here are pretty simple, just digital I/O pins!
+The electronics here are pretty simple, a microcontroller with 8 GPIO pins and USB/Serial capability is all you need!
 
 *insert schematic here*
 
 # Code
 
 The code was pretty nice to work through because of the Arduino Keyboard.h libraries available
+
+I'm looking at trying to set it up with an RP2040 board because I have one with a USB C
+Although it would be super cool to make a custom PCB, it just feels overkill for using a couple GPIO pins.
