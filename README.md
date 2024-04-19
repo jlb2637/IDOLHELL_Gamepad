@@ -20,7 +20,7 @@ After pretending I didn't have to design the case for a long time, I finally got
 
 In the name of making things easier to print I decided to pull all the details on the cover off into their own separate files and glue them on. This meant there was a nice flat surface touching the print bed for everything.
 
-*insert photo of final result*
+
 
 # Electronics
 
