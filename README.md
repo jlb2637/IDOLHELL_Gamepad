@@ -5,21 +5,30 @@ An Arduino based arcade style controller for my friends first game released on S
 
 
 
-This is a super fun and short(haha) project to create an Arduino based arcade style game controller.
-The goal of this project is to be able to use arcade style joystick and buttons to play games on Steam.
-Specifically IDOL HELL, a game created by some of my friends! Check it out here: https://store.steampowered.com/app/2067470/Idol_Hell/
+The goal of this project was to be able to use arcade style joystick and buttons to play games on Steam, specifically IDOL HELL. A game created by some of my friends! Check it out here: https://store.steampowered.com/app/2067470/Idol_Hell/
 
-Parts List & Links:
-Sanwa 30mm arcade pushbuttons - https://focusattack.com/sanwa-obsf-30mm-pushbuttons-green/
-Sanwa 8-way arcade joystick - https://focusattack.com/sanwa-jlf-tp-8yt-joystick/
-Any ATMEGA32u4 Microcontroller, I used this one - https://www.adafruit.com/product/3677
+optional parts
 (optional based on mcu and code) 10k Ohm Resistors on each digital I/O pin used
 22AWG wire
 (optional) Any protoboard/strip board you would like
 access to a 3d printer
 
-(updating this to a speadsheet later)
+### Main Parts List
 
+|Part|Cost Estimate|Link to part|
+| -- | ----------- | ---------- |
+| Sanwa 24mm arcade pushbuttons | $10 | https://focusattack.com/sanwa-obsf-24mm-pushbutton-green/ |
+| Sanwa 8-way arcade joystick | $23 | https://focusattack.com/sanwa-jlf-tp-8yt-joystick/ |
+| Adafruit ItsyBitsy32U4 5v 16MHz | $10 | https://www.adafruit.com/product/3677 |
+| Stranded Core wire, any color you like | $3 for a small spool | https://www.adafruit.com/product/2976 |
+| Hardware to be added | hardware to be added | hardware to be addded |
+| filament to be added | filament to be added | filament to be addded |
+
+### Tools Required
+
+Screwdriver (with flathead and philips bits)
+3D Printer Access
+Soldering Iron & accompanying tools (solder, sponge, etc.)
 
 ## Physical build
 
