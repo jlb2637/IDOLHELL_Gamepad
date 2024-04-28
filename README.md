@@ -1,7 +1,8 @@
 # IDOLHELL_Gamepad
 An Arduino based arcade style controller for my friends first game released on Steam!
 
-![IdolHellGamePadDone](https://github.com/jlb2637/IDOLHELL_Gamepad/assets/47393028/d8992a92-152d-408a-a38d-5d4a9b611b5a)
+![IdolHellGamePadDone](https://github.com/jlb2637/IDOLHELL_Gamepad/assets/47393028/e6606cb6-95ad-4198-b2aa-e8f82126ea0a)
+
 
 
 This is a super fun and short(haha) project to create an Arduino based arcade style game controller.
