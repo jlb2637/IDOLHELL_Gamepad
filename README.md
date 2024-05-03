@@ -21,8 +21,9 @@ access to a 3d printer
 | Sanwa 8-way arcade joystick | $23 | https://focusattack.com/sanwa-jlf-tp-8yt-joystick/ |
 | Adafruit ItsyBitsy32U4 5v 16MHz | $10 | https://www.adafruit.com/product/3677 |
 | Stranded Core wire, any color you like | $3 for a small spool | https://www.adafruit.com/product/2976 |
-| Hardware to be added | hardware to be added | hardware to be addded |
-| filament to be added | filament to be added | filament to be addded |
+| screws#1 | hardware to be added | hardware to be addded |
+| screws#2 | tba | tba |
+| MatterHackers MH Build Series Pink | $21 per 1Kg Spool | [filament to be addded](https://www.matterhackers.com/store/l/175mm-pla-filament-pink-1-kg/sk/M81ZR601) |
 
 ### Tools Required
 
