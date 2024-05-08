@@ -7,12 +7,6 @@ An Arduino based arcade style controller for my friends first game released on S
 
 The goal of this project was to be able to use arcade style joystick and buttons to play games on Steam, specifically IDOL HELL. A game created by some of my friends! Check it out here: https://store.steampowered.com/app/2067470/Idol_Hell/
 
-optional parts
-(optional based on mcu and code) 10k Ohm Resistors on each digital I/O pin used
-22AWG wire
-(optional) Any protoboard/strip board you would like
-access to a 3d printer
-
 ### Main Parts List
 
 |Part|Cost Estimate|Link to part|
@@ -21,9 +15,11 @@ access to a 3d printer
 | Sanwa 8-way arcade joystick | $23 | https://focusattack.com/sanwa-jlf-tp-8yt-joystick/ |
 | Adafruit ItsyBitsy32U4 5v 16MHz | $10 | https://www.adafruit.com/product/3677 |
 | Stranded Core wire, any color you like | $3 for a small spool | https://www.adafruit.com/product/2976 |
-| screws#1 | hardware to be added | hardware to be addded |
-| screws#2 | tba | tba |
-| MatterHackers MH Build Series Pink | $21 per 1Kg Spool | [filament to be addded](https://www.matterhackers.com/store/l/175mm-pla-filament-pink-1-kg/sk/M81ZR601) |
+| 8 Countersunk 4-40 x 3/8" Screws | ~ $8 for a 50 pack | https://www.homedepot.com/p/Hillman-4-40-x-3-8-in-Phillips-Flat-Head-Machine-Screws-50-Pack-43071/204795006 |
+| 4 #10-32 x 1/2" screws + matching nuts | $1.50 for an 8 pack with matching nuts | https://www.homedepot.com/p/10-32-x-1-2-in-Zinc-Plated-Combo-Round-Head-Machine-Screw-8-Pack-831201/317479055 |
+| MatterHackers MH Build Series Pink | $21 per 1Kg Spool | https://www.matterhackers.com/store/l/175mm-pla-filament-pink-1-kg/sk/M81ZR601 |
+
+ Optionally you can pick up proto-board and some resistors if you don't want to use internal pullup resistors, and your favorite Atmega32U4 board can likely be swapped in.
 
 ### Tools Required
 
