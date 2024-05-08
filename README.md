@@ -46,12 +46,14 @@ The electronics here are pretty simple, a microcontroller with 8 GPIO pins and U
 Although it would be super cool to make a custom PCB, it just feels overkill for using a couple GPIO pins so I have hand soldered everything and used the internal pullup resistors on the microcontroller.
 Specifically I am using an Adafruit itsy-bitsy 5V 16MHZ Atmega32u4. The code I've written should really work on any Atmega32u4 board, just remember to change the pins!
 
+Here is an example of what your wiring with internal pullup resistors should look like:
 
-*insert schematic here*
+![image](https://github.com/jlb2637/IDOLHELL_Gamepad/assets/47393028/d03e5dfa-a6ad-4aca-83c5-06976f9a538f)
 
-In case you don't like or don't have an mcu with internal pullup resistors here is a schematic with them placed externally:
+In case you don't like them or don't have an mcu with internal pullup resistors, here is a schematic with them placed externally:
 
-*insert schematic here*
+![image](https://github.com/jlb2637/IDOLHELL_Gamepad/assets/47393028/34015ded-173a-4e2b-897f-cb16ffb1e4c1)
+
 
 ## Code
 
@@ -59,4 +61,8 @@ I went pretty simplistic with the code and it functions basically exactly like a
 The Arduino keyboard.h library made this super simple too.
 
 The one trick to remember is that since we are using internal pullup resistors to pull the disconnected state of each button high, we need to invert all of the inputs so they are active low(key pressed when shorted to ground).
+
+###For the Future
+
+I want to work on my case design a little more to make the parts maybe slot together. It would also be super cool to use other tools like a laser cutter to create enclosures out of things besides PLA.
 
